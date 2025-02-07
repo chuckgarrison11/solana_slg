@@ -23,7 +23,7 @@ export const Features = () => {
     <div className="bg-black text-white py-[72px] sm:py-24">
       <div className="container">
         <h2 className='text-center font-bold text-5xl sm:text-6xl tracking-tighter'>Everything you need</h2>
-        <p className='text-center mt-5 text-xl text-color/70'>We are building the next evolution in competitive gaming and digital earnings. Our vision is to create a seamless ecosystem where players can compete, earn, and thrive in a blockchain-powered gaming environment. By combining cutting-edge Solana technology with competitive gaming, we're revolutionizing how players monetize their skills and creating opportunities for gamers of all skill levels to turn their passion into profit.
+        <p className='text-center mt-5 text-xl text-color/70'>We are building the next evolution in competitive gaming and digital earnings. Our vision is to create a seamless ecosystem where players can compete, earn, and thrive in a blockchain-powered gaming environment. By combining cutting-edge Solana technology with competitive gaming, we&apos;'re revolutionizing how players monetize their skills and creating opportunities for gamers of all skill levels to turn their passion into profit.
         </p>
         <div className='mt-16 flex flex-col sm:flex-row gap-4'>
           {features.map(({ title, description}) => (
